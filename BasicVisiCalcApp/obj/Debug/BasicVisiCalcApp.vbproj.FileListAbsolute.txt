@@ -1,0 +1,11 @@
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\bin\Debug\BasicVisiCalcApp.exe.config
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\bin\Debug\BasicVisiCalcApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\bin\Debug\BasicVisiCalcApp.pdb
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\bin\Debug\BasicVisiCalcApp.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\obj\Debug\BasicVisiCalcApp.BasicVisiCalcApp.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\obj\Debug\BasicVisiCalcApp.Resources.resources
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\obj\Debug\BasicVisiCalcApp.vbproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\obj\Debug\BasicVisiCalcApp.vbproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\obj\Debug\BasicVisiCalcApp.exe
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\obj\Debug\BasicVisiCalcApp.xml
+C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training VB\Basic VisiCalc App VB\Traning Visual Basic - v1\obj\Debug\BasicVisiCalcApp.pdb
